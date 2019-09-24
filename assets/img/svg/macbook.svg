@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 580 419" style="enable-background:new 0 0 580 419;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#24292F;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);}
+	.st2{filter:url(#filter-4);}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;}
+	.st4{filter:url(#Adobe_OpacityMaskFilter);}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st6{mask:url(#mask-3_1_);fill-rule:evenodd;clip-rule:evenodd;fill:url(#Rectangle-11_1_);stroke:url(#Rectangle-11_2_);}
+	.st7{filter:url(#Adobe_OpacityMaskFilter_1_);}
+	.st8{mask:url(#mask-3_2_);}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#34383D;}
+	.st10{filter:url(#filter-8);}
+	.st11{filter:url(#Adobe_OpacityMaskFilter_2_);}
+	.st12{mask:url(#mask-3_3_);fill:url(#SVGID_2_);}
+	.st13{filter:url(#filter-13);}
+	.st14{fill-rule:evenodd;clip-rule:evenodd;fill:#878D9E;}
+	.st15{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_3_);}
+	.st16{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_4_);}
+	.st17{filter:url(#filter-14);}
+	.st18{fill-rule:evenodd;clip-rule:evenodd;fill:#9BA0B0;}
+	.st19{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_5_);}
+	.st20{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_6_);}
+	.st21{filter:url(#Adobe_OpacityMaskFilter_3_);}
+	.st22{mask:url(#mask-18_1_);fill-rule:evenodd;clip-rule:evenodd;fill:#D8D8D8;}
+	.st23{fill-rule:evenodd;clip-rule:evenodd;fill:#D2D4DB;}
+	.st24{filter:url(#filter-20);}
+	.st25{fill-rule:evenodd;clip-rule:evenodd;fill:#616872;}
+	.st26{filter:url(#Adobe_OpacityMaskFilter_4_);}
+	.st27{mask:url(#mask-22_1_);fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style>
+<filter  filterUnits="objectBoundingBox" height="193.0%" id="filter-8" width="103.4%" x="-1.7%" y="-46.5%">
+	<feGaussianBlur  in="SourceAlpha" result="shadowBlurInner1" stdDeviation="5"></feGaussianBlur>
+	<feOffset  dx="0" dy="-12" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+	<feComposite  in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1">
+		</feComposite>
+	<feColorMatrix  in="shadowInnerInner1" type="matrix" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18919837 0">
+		</feColorMatrix>
+</filter>
+<filter  filterUnits="objectBoundingBox" height="101.2%" id="filter-4" width="100.8%" x="-0.4%" y="-0.6%">
+	<feGaussianBlur  in="SourceAlpha" result="shadowBlurInner1" stdDeviation="1"></feGaussianBlur>
+	<feOffset  dx="0" dy="-3" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+	<feComposite  in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1">
+		</feComposite>
+	<feColorMatrix  in="shadowInnerInner1" type="matrix" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0"></feColorMatrix>
+</filter>
+<filter  filterUnits="objectBoundingBox" height="230.2%" id="filter-20" width="102.9%" x="-1.4%" y="-65.1%">
+	<feGaussianBlur  in="SourceAlpha" result="shadowBlurInner1" stdDeviation="1"></feGaussianBlur>
+	<feOffset  dx="3" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+	<feComposite  in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1">
+		</feComposite>
+	
+		<feColorMatrix  in="shadowInnerInner1" result="shadowMatrixInner1" type="matrix" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.297667572 0">
+		</feColorMatrix>
+	<feGaussianBlur  in="SourceAlpha" result="shadowBlurInner2" stdDeviation="1"></feGaussianBlur>
+	<feOffset  dx="-3" dy="0" in="shadowBlurInner2" result="shadowOffsetInner2"></feOffset>
+	<feComposite  in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2">
+		</feComposite>
+	
+		<feColorMatrix  in="shadowInnerInner2" result="shadowMatrixInner2" type="matrix" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.297667572 0">
+		</feColorMatrix>
+	<feMerge>
+		<feMergeNode  in="shadowMatrixInner1"></feMergeNode>
+		<feMergeNode  in="shadowMatrixInner2"></feMergeNode>
+	</feMerge>
+</filter>
+<filter  filterUnits="objectBoundingBox" height="264.9%" id="filter-14" width="102.5%" x="-1.3%" y="-82.5%">
+	<feGaussianBlur  in="SourceAlpha" result="shadowBlurInner1" stdDeviation="5.5"></feGaussianBlur>
+	<feOffset  dx="0" dy="-6" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+	<feComposite  in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1">
+		</feComposite>
+	<feColorMatrix  in="shadowInnerInner1" type="matrix" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.485762002 0">
+		</feColorMatrix>
+</filter>
+<filter  filterUnits="objectBoundingBox" height="126.0%" id="filter-13" width="100.4%" x="-0.2%" y="-13.0%">
+	<feOffset  dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feGaussianBlur  in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="0.5"></feGaussianBlur>
+	<feColorMatrix  in="shadowBlurOuter1" type="matrix" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0"></feColorMatrix>
+</filter>
+<g id="Top" transform="translate(50.000000, 0.000000)">
+	<g id="Group-4">
+		<g id="Rectangle-2">
+			<g>
+				<path class="st0" d="M18.3,0h618.4c9.6,0,17.3,8.3,17.3,18.5v368.9c0,10.2-7.8,18.5-17.3,18.5H18.3C8.8,406,1,397.7,1,387.5
+					V18.5C1,8.3,8.8,0,18.3,0z"/>
+			</g>
+			<g>
+				
+					<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-65.0722" y1="605.2224" x2="-63.9988" y2="604.8969" gradientTransform="matrix(653 0 0 -406 42431 245850)">
+					<stop  offset="0" style="stop-color:#33383E"/>
+					<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+				</linearGradient>
+				<path class="st1" d="M18.3,0h618.4c9.6,0,17.3,8.3,17.3,18.5v368.9c0,10.2-7.8,18.5-17.3,18.5H18.3C8.8,406,1,397.7,1,387.5
+					V18.5C1,8.3,8.8,0,18.3,0z"/>
+			</g>
+			<g class="st2">
+				<path class="st3" d="M18.3,0h618.4c9.6,0,17.3,8.3,17.3,18.5v368.9c0,10.2-7.8,18.5-17.3,18.5H18.3C8.8,406,1,397.7,1,387.5
+					V18.5C1,8.3,8.8,0,18.3,0z"/>
+			</g>
+		</g>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="322.6" y="10.5" width="5.9" height="5.9">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="322.6" y="10.5" width="5.9" height="5.9" id="mask-3_1_">
+			<g class="st4">
+				<path id="path-2_1_" class="st5" d="M18.3,0h618.4c9.6,0,17.3,8.3,17.3,18.5v368.9c0,10.2-7.8,18.5-17.3,18.5H18.3
+					C8.8,406,1,397.7,1,387.5V18.5C1,8.3,8.8,0,18.3,0z"/>
+			</g>
+		</mask>
+		
+			<linearGradient id="Rectangle-11_1_" gradientUnits="userSpaceOnUse" x1="-61.4503" y1="568.1384" x2="-61.4503" y2="567.148" gradientTransform="matrix(4.9185 0 0 -4.9126 627.7677 2802.0601)">
+			<stop  offset="0" style="stop-color:#000000"/>
+			<stop  offset="1" style="stop-color:#585656"/>
+		</linearGradient>
+		
+			<linearGradient id="Rectangle-11_2_" gradientUnits="userSpaceOnUse" x1="-61.4503" y1="568.1384" x2="-61.4503" y2="567.1556" gradientTransform="matrix(4.9185 0 0 -4.9126 627.7677 2802.0601)">
+			<stop  offset="0" style="stop-color:#000000"/>
+			<stop  offset="1" style="stop-color:#333232"/>
+		</linearGradient>
+		<path id="Rectangle-11" class="st6" d="M325.5,11c-1.4,0-2.5,1.1-2.5,2.5s1.1,2.5,2.5,2.5h0c1.4,0,2.5-1.1,2.5-2.5
+			S326.9,11,325.5,11L325.5,11z"/>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="-10.1" y="371.4" width="675" height="46">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="-10.1" y="371.4" width="675" height="46" id="mask-3_2_">
+			<g class="st7">
+				<path id="path-2_2_" class="st5" d="M18.3,0h618.4c9.6,0,17.3,8.3,17.3,18.5v368.9c0,10.2-7.8,18.5-17.3,18.5H18.3
+					C8.8,406,1,397.7,1,387.5V18.5C1,8.3,8.8,0,18.3,0z"/>
+			</g>
+		</mask>
+		<g id="Rectangle" class="st8">
+			<g>
+				<polygon id="path-7" class="st9" points="1,382.3 654,382.3 654,406 1,406 				"/>
+			</g>
+			<g class="st10">
+				<polygon class="st3" points="1,382.3 654,382.3 654,406 1,406 				"/>
+			</g>
+		</g>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_2_" filterUnits="userSpaceOnUse" x="1" y="0" width="653" height="406">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="1" y="0" width="653" height="406" id="mask-3_3_">
+			<g class="st11">
+				<path id="path-2_3_" class="st5" d="M18.3,0h618.4c9.6,0,17.3,8.3,17.3,18.5v368.9c0,10.2-7.8,18.5-17.3,18.5H18.3
+					C8.8,406,1,397.7,1,387.5V18.5C1,8.3,8.8,0,18.3,0z"/>
+			</g>
+		</mask>
+		
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-64.7368" y1="605.1833" x2="-64.0635" y2="604.8167" gradientTransform="matrix(653 0 0 -406 42431 245850)">
+			<stop  offset="0" style="stop-color:#5D636B"/>
+			<stop  offset="1" style="stop-color:#373E45"/>
+		</linearGradient>
+		<path class="st12" d="M18.3,3.9C11,3.9,4.9,10.4,4.9,18.5v368.9c0,8.1,6.1,14.6,13.4,14.6h618.4c7.3,0,13.4-6.5,13.4-14.6V18.5
+			c0-8.1-6.1-14.6-13.4-14.6H18.3z M18.3,0h618.4c9.6,0,17.3,8.3,17.3,18.5v368.9c0,10.2-7.8,18.5-17.3,18.5H18.3
+			C8.8,406,1,397.7,1,387.5V18.5C1,8.3,8.8,0,18.3,0z"/>
+	</g>
+</g>
+<g id="Bottom" transform="translate(0.000000, 402.000000)">
+	<g id="Rectangle-12">
+		<g class="st13">
+			<path id="path-12_1_" class="st3" d="M83.1,16C64.2,16,27,13,8.9,7.1L1,4.5h753.9l-7.9,2.6c-18,5.9-57,8.9-75.8,8.9H83.1z"/>
+		</g>
+		<g>
+			<path class="st14" d="M83.1,16C64.2,16,27,13,8.9,7.1L1,4.5h753.9l-7.9,2.6c-18,5.9-57,8.9-75.8,8.9H83.1z"/>
+		</g>
+		<g>
+			
+				<radialGradient id="SVGID_3_" cx="1.6458" cy="204.0879" r="0.9708" gradientTransform="matrix(7.053891e-16 11.52 170.6521 -1.044954e-14 -34450.0977 -14.48)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#000000;stop-opacity:0.2876"/>
+				<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+			</radialGradient>
+			<path class="st15" d="M83.1,16C64.2,16,27,13,8.9,7.1L1,4.5h753.9l-7.9,2.6c-18,5.9-57,8.9-75.8,8.9H83.1z"/>
+		</g>
+		<g>
+			
+				<radialGradient id="SVGID_4_" cx="0.8612" cy="204.8608" r="2.4005" gradientTransform="matrix(-1.2725 11.4495 22.4517 2.4954 -4629.0518 -508.432)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#9EA2B2"/>
+				<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+			</radialGradient>
+			<path class="st16" d="M83.1,16C64.2,16,27,13,8.9,7.1L1,4.5h753.9l-7.9,2.6c-18,5.9-57,8.9-75.8,8.9H83.1z"/>
+		</g>
+		<g class="st17">
+			<path class="st3" d="M83.1,16C64.2,16,27,13,8.9,7.1L1,4.5h753.9l-7.9,2.6c-18,5.9-57,8.9-75.8,8.9H83.1z"/>
+		</g>
+	</g>
+	<g id="Group-6" transform="translate(0.000000, 1.280000)">
+		<g>
+			<g>
+				<path class="st18" d="M1,3.2c0.3-0.8,0.5-1.3,0.9-1.3l26.6-1.8C29.2,0,30,0,30.7,0l694.5,0c0.7,0,1.5,0,2.2,0.1L754,1.9
+					c0.3,0,0.6,0.4,0.9,1.3H1z"/>
+			</g>
+			<g>
+				
+					<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="-14.078" y1="144.0339" x2="-15.0015" y2="144.034" gradientTransform="matrix(753.877 0 0 -3.1966 11294.1543 462.023)">
+					<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.2385"/>
+					<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+				</linearGradient>
+				<path class="st19" d="M1,3.2c0.3-0.8,0.5-1.3,0.9-1.3l26.6-1.8C29.2,0,30,0,30.7,0l694.5,0c0.7,0,1.5,0,2.2,0.1L754,1.9
+					c0.3,0,0.6,0.4,0.9,1.3H1z"/>
+			</g>
+			<g>
+				
+					<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="-14.5254" y1="144.0339" x2="-14.2489" y2="144.0338" gradientTransform="matrix(753.877 0 0 -3.1966 11294.1543 462.023)">
+					<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+					<stop  offset="0.5517" style="stop-color:#868686;stop-opacity:0.5"/>
+					<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+				</linearGradient>
+				<path class="st20" d="M1,3.2c0.3-0.8,0.5-1.3,0.9-1.3l26.6-1.8C29.2,0,30,0,30.7,0l694.5,0c0.7,0,1.5,0,2.2,0.1L754,1.9
+					c0.3,0,0.6,0.4,0.9,1.3H1z"/>
+			</g>
+		</g>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_3_" filterUnits="userSpaceOnUse" x="1" y="1.9" width="754" height="3.8">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="1" y="1.9" width="754" height="3.8" id="mask-18_1_">
+			<g class="st21">
+				<path id="path-17_1_" class="st5" d="M1,3.2c0.3-0.8,0.5-1.3,0.9-1.3l26.6-1.8C29.2,0,30,0,30.7,0l694.5,0c0.7,0,1.5,0,2.2,0.1
+					L754,1.9c0.3,0,0.6,0.4,0.9,1.3H1z"/>
+			</g>
+		</mask>
+		<rect id="Rectangle-5" x="1" y="1.9" class="st22" width="754" height="3.8"/>
+	</g>
+	<g id="Rectangle-4">
+		<g>
+			<path id="path-19" class="st23" d="M459.4,7H292.9c-3.1,0-3.6-0.7-3.6-3.8H463C463,6.4,462.5,7,459.4,7z"/>
+		</g>
+		<g class="st24">
+			<path class="st3" d="M459.4,7H292.9c-3.1,0-3.6-0.7-3.6-3.8H463C463,6.4,462.5,7,459.4,7z"/>
+		</g>
+	</g>
+	<polygon id="Rectangle-14" class="st25" points="25.3,0 730.7,0 730.7,1.9 25.3,1.9 	"/>
+</g>
+<g id="Mask">
+	<polygon class="st5" points="70,25 682,25 682,364 70,364 	"/>
+</g>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter_4_" filterUnits="userSpaceOnUse" x="70" y="25" width="612" height="339">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="70" y="25" width="612" height="339" id="mask-22_1_">
+	<g class="st26">
+		<polygon id="path-21_1_" class="st5" points="70,25 682,25 682,364 70,364 		"/>
+	</g>
+</mask>
+<polygon class="st27" points="70,25 682,25 682,364 70,364 "/>
+</svg>

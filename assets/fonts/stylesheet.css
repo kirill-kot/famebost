@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Europe';
+    src: url('EuropeBold.eot');
+    src: url('EuropeBold.eot?#iefix') format('embedded-opentype'),
+        url('EuropeBold.woff2') format('woff2'),
+        url('EuropeBold.woff') format('woff'),
+        url('EuropeBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
